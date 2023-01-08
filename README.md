@@ -5,7 +5,7 @@ This repository contains my Data Visualization projects that I used to learn vis
 
 ![Matplotlib](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/matplot.png "Matplotlib")
 
-![Seaborn]([seaborn.jpeg](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/seaborn.jpeg) "Seabron")
+![Seaborn](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/seaborn.jpeg "Seabron")
 
 
 
