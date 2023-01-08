@@ -1,7 +1,7 @@
 
 This repository contains my Data Visualization projects that I used to learn visualization tools and techniques using the following libraries:
 
-![Pandas](/pandas.png "Pandas")
+![Pandas](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpandas.pydata.org%2Fstatic%2Fimg%2Fpandas_secondary.svg&imgrefurl=https%3A%2F%2Fpandas.pydata.org%2Fabout%2Fciting.html&tbnid=uHUU41k0chGGsM&vet=12ahUKEwjH_-u397f8AhUBU6QEHeE0B5YQMygBegUIARDHAQ..i&docid=K7_DgYdXiM_mpM&w=800&h=567&q=pandas%20python%20logo&ved=2ahUKEwjH_-u397f8AhUBU6QEHeE0B5YQMygBegUIARDHAQ "Pandas")
 
 ![Matplotlib](/matplot.png "Matplotlib")
 
