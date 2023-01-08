@@ -1,11 +1,11 @@
 
 This repository contains my Data Visualization projects that I used to learn visualization tools and techniques using the following libraries:
 
-![Pandas]("Pandas")
+![Pandas](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/pandas.png "Pandas")
 
 ![Matplotlib](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/matplot.png "Matplotlib")
 
-![Seaborn](seaborn.jpeg "Seabron")
+![Seaborn]([seaborn.jpeg](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/seaborn.jpeg) "Seabron")
 
 
 
