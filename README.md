@@ -49,3 +49,32 @@ Following information/ visuals are included in the notebook:
 * Highest Correlation of total incidents with other attributes
 * Effect of percentage of drivers involved in fatal collisions who were not distracted 
 * Effect of alcohol in the fatal collisions and drivers with no previous accidents
+
+# [Analyzing Wine Quality - UC Irvine Dataset](https://github.com/kennyfahad/Data-Visualization/blob/main/Analyzing%20Wine%20Quality%20-%20UC%20Irvine%20Dataset.ipynb)
+
+## About Dataset
+
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. Following are the Input variables (based on physicochemical tests):
+1. fixed acidity
+2. volatile acidity
+3. citric acid
+4. residual sugar
+5. chlorides
+6. free sulfur dioxide
+7. total sulfur dioxide
+8. density
+9. pH
+10. sulphates
+11. alcohol
+Output variable (based on sensory data):
+12. quality (score between 0 and 10)
+
+[Source](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+
+## Visualization
+
+My analysis of correlation of wine quality with physicochemical tests starts from finding the correlation to the final visual which presents correltaion values between wine quality and wine properties from the tests. The notebook will explain all the steps that I have taken to come to the conclusion.
+
+## Final Visual
+
+![Wine](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/wine.png "Wine")
