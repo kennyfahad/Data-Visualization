@@ -25,7 +25,10 @@ Consult your local medical authority for advice.
 The dataset contains information about countries who reported COVID-19 cases and deaths from January 2020 till date. Following information is provided by WHO in this dataset:
 Date_reported	Country_code	Country	WHO_region	New_cases	Cumulative_cases	New_deaths	Cumulative_deaths
 
-
+Information that I was able to extract is as follows:
+![Cumulative Cases](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/covid_globalcases.png "Cumulative Cases")
+![Cumulative Deaths](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/covid_globaldeaths.png "Cumulative Deaths")
+![Share of Deaths in Top 10](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/covid_pie.png "Share of Deaths in Top 10")
 
 
 # [EDA with Data Visualization - Car Crashes Dataset](https://github.com/kennyfahad/Data-Visualization/blob/main/EDA%20with%20Data%20Visualization%20-%20Car%20Crashes%20Dataset%20(Seaborn).ipynb)
