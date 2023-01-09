@@ -50,6 +50,12 @@ Following information/ visuals are included in the notebook:
 * Effect of percentage of drivers involved in fatal collisions who were not distracted 
 * Effect of alcohol in the fatal collisions and drivers with no previous accidents
 
+## Final Visuals
+
+![Car Crashes](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/crashes.png "Car Crashes")
+![Car Crashes Alcohol](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/carcrashes.png "Car Crashes Alcohol")
+
+
 # [Analyzing Wine Quality - UC Irvine Dataset](https://github.com/kennyfahad/Data-Visualization/blob/main/Analyzing%20Wine%20Quality%20-%20UC%20Irvine%20Dataset.ipynb)
 
 ## About Dataset
