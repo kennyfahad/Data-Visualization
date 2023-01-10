@@ -31,6 +31,11 @@ Information that I was able to extract is as follows:
 ![Share of Deaths in Top 10](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/covid_pie.png "Share of Deaths in Top 10")
 
 
+## An Interactive Dashboard
+The notebook also contains an interactive dashboard which shows COVID-19 Deaths and Cases in each country selected from a drop down list. 
+![Interactive1](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/interact1.png "Interactive Dashboard")
+![Interactive2](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/interact2.png "Interactive Dashboard")
+
 # [EDA with Data Visualization - Car Crashes Dataset](https://github.com/kennyfahad/Data-Visualization/blob/main/EDA%20with%20Data%20Visualization%20-%20Car%20Crashes%20Dataset%20(Seaborn).ipynb)
 
 
