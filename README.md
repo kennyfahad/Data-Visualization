@@ -95,9 +95,24 @@ My analysis of correlation of wine quality with physicochemical tests starts fro
 
 Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. The World Bank's CO2 Emissions dataset provides year-wise CO2 emissions per metric ton per capita of each country.
 
-The dataset is cleaned and organized in order to create an excel file which will be later used to develop an animated bar chart showing CO2 emissions of top 10 countries over a period of 20 year i.e. 1990 - 2019. 
+The dataset is cleaned and organized in order to create an excel file which will be later used to develop an animated bar chart showing CO2 emissions of top 10 countries over a period of 20 year i.e. 1990 - 2019. Following steps were involved:
+
+1. Loading dataset from **The World Bank Open Data** for CO2 Emissions
+2. Wrangling dataset to bring to the required format using **Pansds**
+3. Webscraping flags of countries to include in the animated visual using **BeautifulSoup**
+4. Saving image files in .png format using **Bulk Rename Utility**
+5. Running the python code using **sjvisualizer** 
+6. USing **OBS Studio** and **ClipsChamp** for video recording and editing
+
+I used [sjvisulaizer](https://github.com/SjoerdTilmans/sjvisualizer) by [SjoerdTilmans](https://github.com/SjoerdTilmans) to create an animated visual.
+
+[Click Here for `.py` file](https://github.com/kennyfahad/Data-Visualization/blob/main/CO2Emissions.py)
+
+
 
 [Click here for more information](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?most_recent_value_desc=true&view=chart) 
+
+## Final Visual
 
 ![Final Output](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/co2Emissions.gif "Final Output")
 
