@@ -89,3 +89,16 @@ My analysis of correlation of wine quality with physicochemical tests starts fro
 ## Final Visual
 
 ![Wine](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/wine.png "Wine")
+
+
+# [CO2 Emissions - The World Bank Open Data](https://github.com/kennyfahad/Data-Visualization/blob/main/CO2%20Emissions%20-%20The%20World%20Bank%20Open%20Data.ipynb)
+
+Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring. The World Bank's CO2 Emissions dataset provides year-wise CO2 emissions per metric ton per capita of each country.
+
+The dataset is cleaned and organized in order to create an excel file which will be later used to develop an animated bar chart showing CO2 emissions of top 10 countries over a period of 20 year i.e. 1990 - 2019. 
+
+[Click here for more information](https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?most_recent_value_desc=true&view=chart) 
+
+![Final Output](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/co2Emissions.gif "Final Output")
+
+[Link to MP4](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/co2Emissions.mp4)
