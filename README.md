@@ -118,3 +118,26 @@ I used [sjvisulaizer](https://github.com/SjoerdTilmans/sjvisualizer) by [SjoerdT
 ![Final Output](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/co2Emissions.gif "Final Output")
 
 [Link to MP4](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/co2Emissions.mp4)
+
+
+# [Pakistan's Worker's Remittance - State Bank of Pakistan - EasyData](https://github.com/kennyfahad/Data-Visualization/blob/main/Pakistan's%20Worker's%20Remittance%20-%20State%20Bank%20of%20Pakistan%20-%20EasyData.ipynb)
+
+## About Dataset
+
+State Bank of Pakistan's Easy Data portal was launched in June 2022 and currently hosts economic and financial time series data on more than 7,000 variables neatly grouped into around 100 datasets.
+
+[SBP EasyData](https://easydata.sbp.org.pk/apex/f?p=10:1:0:)
+
+The Country-wise Workers' Remittances dataset contains details of countries, and monthly amount of USD in millions received by Pakistan as workers' remittances. 
+
+[Remittance Dataset](https://easydata.sbp.org.pk/apex/fp=10:211:::NO:RP:P211_DATASET_TYPE_CODE,P211_PAGE_ID:TS_GP_BOP_WR_M,250&cs=157866335180CD2B7910AF42D3E4C3C43)
+
+## Final Visual
+
+I used [sjvisulaizer](https://github.com/SjoerdTilmans/sjvisualizer) by [SjoerdTilmans](https://github.com/SjoerdTilmans) to create an animated visual.
+
+[Click Here for `.py` file](https://github.com/kennyfahad/Data-Visualization/blob/main/PakWorkersRemittance.py)
+
+![Pakistan Workers' Remittance](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/PakWorkersRemittance.gif "Pakistan Workers' Remittance")
+
+[Link to MP4](https://github.com/kennyfahad/Data-Visualization/blob/main/Data/PakWorkersRemittance.mp4)
